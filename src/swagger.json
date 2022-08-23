@@ -1,0 +1,11 @@
+{
+    "openapi": "3.0.0",
+    "info":{
+        "title": "api desafio ",
+        "description": "This is an API",
+        "version": "1.0.0",
+        "contact":{
+            "email": "marco.antonio1233@gmail.com"
+        }
+    }
+}
